@@ -1,4 +1,6 @@
 """
+Dash Tutorial Ch. 5 - example 1/
+
 Interactive graphs hello world. 
 
 The dcc.Graph component has four attributes that chan change through user
