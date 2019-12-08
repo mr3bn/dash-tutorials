@@ -1,5 +1,7 @@
 '''
+Dash Tutorial Ch. 2 - example 3/6
 
+Demonstration of using Python functons to encapsulate repetitive markup.
 '''
 
 

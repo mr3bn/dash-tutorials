@@ -1,5 +1,5 @@
 '''
-Dash Layout Demo (1 of 6).
+Dash Tutorial Ch. 2 - example 1/6
 
 The "getting started" module with a basic Dash app. 
 

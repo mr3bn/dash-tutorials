@@ -1,4 +1,6 @@
 '''
+Dash Tutorial Ch. 4 - example 3/3
+
 Demonstrates how to use no_update to handle bad inputs while showing the previous one.
 '''
 

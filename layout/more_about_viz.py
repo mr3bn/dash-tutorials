@@ -1,7 +1,9 @@
 '''
+Dash Tutorial Ch. 2 - example 4/6
+
 Introduction to the dash_core_components module. 
 
-Demonstrates how to work with the primary dcc component, a Graph
+Demonstrates how to work with the primary dcc component, a Graph.
 '''
 
 import dash

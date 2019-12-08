@@ -1,4 +1,6 @@
 '''
+Dash Tutorial Ch. 3 - example 4/5
+
 Demonstration of using one input variable to drive multiple outputs using callbacks.
 
 Takes a single numeric input input and shows five different math options

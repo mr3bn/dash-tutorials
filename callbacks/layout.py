@@ -1,4 +1,6 @@
 '''
+Dash Tutorial Ch. 3 - example 1/5
+
 Intro to callback functions. 
 
 Callbacks let us dynamically update component properties based on changes to inputs. 

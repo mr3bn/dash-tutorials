@@ -1,4 +1,7 @@
-'''Introduction to the `dash_core_components` module.
+'''
+Dash Tutorial Ch. 2 - example 6/6
+
+Examples of basic items in the `dash_core_components` module.
 
 The module includes a set of high-level components like dropdowns, 
 graphs, markdown blocks, and more.

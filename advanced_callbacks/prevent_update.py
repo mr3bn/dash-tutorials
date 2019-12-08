@@ -1,4 +1,6 @@
 '''
+Dash Tutorial Ch. 4 - example 2/3
+
 Demonstration of using PreventUpdate to selectively stop a callback function from firing
 '''
 

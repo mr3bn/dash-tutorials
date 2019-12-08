@@ -1,4 +1,6 @@
 '''
+Dash Tutorial Ch. 3 - example 3/5
+
 Demonstration of binding multiple inputs to one output in a callback.
 
 Creates five input components that manipulate different aspects of a graph,

@@ -1,4 +1,6 @@
 '''
+Dash Tutorial Ch. 2 - example 2/6
+
 Examples of basic items in dash_html_components.
 
 The dash_html_components module contains a class for

@@ -1,3 +1,12 @@
+"""
+Dash Tutorial Ch. 3 - example 5/5
+
+Example of chaining two Dash callback functions.
+
+This pattern can be used to create dynamic UIs where one input
+component updates some prooperty of another.
+"""
+
 import dash
 import dash_core_components as dcc
 import dash_html_components as html

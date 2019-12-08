@@ -1,4 +1,6 @@
 '''
+Dash Tutorial Ch. 2 - example 5/6
+
 Small example of driving content through Markdown. 
 
 For larger blocks of text, we might prefer to write in Markdown instead. 
@@ -18,7 +20,7 @@ external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 
 # read markdown from a separate file
-text = open('03_text.md').read()
+text = open('text.md').read()
 
 # plug markdown into a Div
 app.layout = html.Div([
