@@ -1,3 +1,12 @@
+"""
+Dash Tutorial Ch. 5 - example 3/3
+
+Generic example of crossfiltering across a high-dimensional dataset. 
+
+This app produces three scatter plots and, through a callback, will propagate
+a selection on one chart to the other two.
+"""
+
 from pprint import pprint
 
 import dash
@@ -15,8 +24,10 @@ app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 np.random.seed(0)
 df = pd.DataFrame({f"Col {i+1}" : np.random.rand(30) for i in range(6)})
 
+
 graph_config = {'displayModeBar': False}
 
+# three empty graphs - the callback will handle plotting data on them
 g1 = dcc.Graph(id='g1', config=graph_config)
 g2 = dcc.Graph(id='g2', config=graph_config)
 g3 = dcc.Graph(id='g3', config=graph_config)

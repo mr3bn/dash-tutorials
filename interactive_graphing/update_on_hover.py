@@ -1,5 +1,5 @@
 """
-Dash Tutorial Ch. 5 - example 2/
+Dash Tutorial Ch. 5 - example 2/3
 
 Reacting to "hover" events in a graph.
 
