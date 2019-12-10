@@ -1,0 +1,1 @@
+This folder contains several Dash apps from Ch. 6 of the Dash Tutorial, titled [Sharing Data Between Callbacks](https://dash.plot.ly/sharing-data-between-callbacks). This chapter describes how to make Dash apps interactive using callbacks.

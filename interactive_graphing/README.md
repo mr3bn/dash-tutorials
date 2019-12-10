@@ -1,0 +1,1 @@
+This folder contains several Dash apps from Ch. 5 of the Dash Tutorial, titled [Interactive Graphing & Crossfiltering](https://dash.plot.ly/interactive-graphing). This chapter describes how to make Dash apps interactive using callbacks.

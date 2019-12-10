@@ -1,0 +1,1 @@
+This folder contains several Dash apps from Ch. 4 of the Dash Tutorial, titled [More About Callbacks](https://dash.plot.ly/state). This chapter describes how to manage callbacks when external state is involved.
