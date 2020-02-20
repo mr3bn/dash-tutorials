@@ -1,4 +1,4 @@
-'''
+w'''
 Ch. 3 - example 2/5
 
 Another example of callbacks, this time using a slider to update a graph.
